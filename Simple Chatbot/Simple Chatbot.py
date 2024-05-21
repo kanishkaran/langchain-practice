@@ -4,7 +4,7 @@ from langchain_community.llms import Ollama
 import streamlit as st
 import os
 
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = ""
 os.environ["LANGCHAIN_TRACING_V2"] = 'True'
 
 prompt = ChatPromptTemplate.from_messages(
