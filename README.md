@@ -3,10 +3,10 @@ This chatbot using langchain uses phi3 (Phi-3 Mini) is a 3.8B parameters, lightw
 Also uses functions of Langsmith for efficient Tracking all the activities in the system.
 
 Created using StreamLit
-[![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)](https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s1.png)
-[![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)](https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s2.png)
-[![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)](https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s3png)
-[![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)](https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s4.png)
+![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)(https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s1.png)
+![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)(https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s2.png)
+![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)(https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s3png)
+![chatbot](langchain-practice/Simple Chatbot/k-t1-s1.png)(https://github.com/kanishkaran/langchain-practice/blob/8b0365a9827aa44639ac985785df2ed274b4c708/Simple%20Chatbot/k-t1-s4.png)
 
 ***
 
