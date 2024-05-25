@@ -18,6 +18,20 @@ Created using StreamLit.
 
 ***
 
+***
+# Chat Using Groq 
+***
+This uses Groq inference engines for faster response/ inference time from Gemma-7b-It model. The system uses a Web based loader with loads information from Websites, here it loads *chains* documentation from langchain documentation.
+
+
+![groq]
+![groq]
+![groq]
+![groq]
+
+
+
+
 # A RAG System Langchain Chains
 
 This Langchain System uses Chains from Langchain for efficient retrival from a pdf file.
